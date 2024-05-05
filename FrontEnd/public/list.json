@@ -1,0 +1,90 @@
+[
+    {
+        "id":1,
+        "name":"India: A History",
+        "description":"From Cover to End, Enrich Your Soul: Reading, The Ultimate Goal." ,
+        "price":0,
+        "catagory":"Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149350186.jpg?t=st=1714566593~exp=1714570193~hmac=12e762059bb87521c0a8b20fd52ed87e95165bf446c005bd660287188865f3cd&w=740"
+    },
+    {
+        "id":2,
+        "name":"The Discovery of India",
+        "description":"From Cover to End, Enrich Your Soul: Reading, The Ultimate Goal.",
+        "price":0,
+        "catagory":"Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149350186.jpg?t=st=1714566593~exp=1714570193~hmac=12e762059bb87521c0a8b20fd52ed87e95165bf446c005bd660287188865f3cd&w=740"
+    },
+    {
+        "id":3,
+        "name":"India's Struggle for Independence",
+        "description":"From Cover to End, Enrich Your Soul: Reading, The Ultimate Goal." ,
+        "price":0,
+        "catagory":"Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149350186.jpg?t=st=1714566593~exp=1714570193~hmac=12e762059bb87521c0a8b20fd52ed87e95165bf446c005bd660287188865f3cd&w=740"
+    },
+    {
+        "id":4,
+        "name":"History of Ancient India",
+        "description":"From Cover to End, Enrich Your Soul: Reading, The Ultimate Goal." ,
+        "price":0,
+        "catagory":"Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149350186.jpg?t=st=1714566593~exp=1714570193~hmac=12e762059bb87521c0a8b20fd52ed87e95165bf446c005bd660287188865f3cd&w=740"
+    },
+    {
+        "id":5,
+        "name":"Discovery of India by Jawaharlal Nehru",
+        "description":"From Cover to End, Enrich Your Soul: Reading, The Ultimate Goal." ,
+        "price":0,
+        "catagory":"Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149350186.jpg?t=st=1714566593~exp=1714570193~hmac=12e762059bb87521c0a8b20fd52ed87e95165bf446c005bd660287188865f3cd&w=740"
+    },
+    {
+        "id":6,
+        "name":"Modern India",
+        "description":"From Cover to End, Enrich Your Soul: Reading, The Ultimate Goal." ,
+        "price":0,
+        "catagory":"Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149350186.jpg?t=st=1714566593~exp=1714570193~hmac=12e762059bb87521c0a8b20fd52ed87e95165bf446c005bd660287188865f3cd&w=740"
+    },
+    {
+        "id":7,
+        "name":"The Last Mughal",
+        "description":"From Cover to End, Enrich Your Soul: Reading, The Ultimate Goal." ,
+        "price":0,
+        "catagory":"Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149350186.jpg?t=st=1714566593~exp=1714570193~hmac=12e762059bb87521c0a8b20fd52ed87e95165bf446c005bd660287188865f3cd&w=740"
+    },
+    {
+        "id":8,
+        "name":"Gandhi Before India",
+        "description":"From Cover to End, Enrich Your Soul: Reading, The Ultimate Goal." ,
+        "price":0,
+        "catagory":"Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149350186.jpg?t=st=1714566593~exp=1714570193~hmac=12e762059bb87521c0a8b20fd52ed87e95165bf446c005bd660287188865f3cd&w=740"
+    },
+    {
+        "id":9,
+        "name":"The Argumentative Indian",
+        "description":"From Cover to End, Enrich Your Soul: Reading, The Ultimate Goal." ,
+        "price":200,
+        "catagory":"History",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149350186.jpg?t=st=1714566593~exp=1714570193~hmac=12e762059bb87521c0a8b20fd52ed87e95165bf446c005bd660287188865f3cd&w=740"
+    },
+    {
+        "id":10,
+        "name":"The Great Indian Novel",
+        "description":"From Cover to End, Enrich Your Soul: Reading, The Ultimate Goal." ,
+        "price":50,
+        "catagory":"History",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149350186.jpg?t=st=1714566593~exp=1714570193~hmac=12e762059bb87521c0a8b20fd52ed87e95165bf446c005bd660287188865f3cd&w=740"
+    },
+    {
+        "id":11,
+        "name":"India After Gandhi",
+        "description":"From Cover to End, Enrich Your Soul: Reading, The Ultimate Goal." ,
+        "price":0,
+        "catagory":"Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149350186.jpg?t=st=1714566593~exp=1714570193~hmac=12e762059bb87521c0a8b20fd52ed87e95165bf446c005bd660287188865f3cd&w=740"
+    }
+]
